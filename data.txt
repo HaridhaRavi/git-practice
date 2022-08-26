@@ -2,3 +2,4 @@ Name: Haridha
 Age :26
 Favorite Color : Black
 Favorite food : biriyani
+favorite place:home
